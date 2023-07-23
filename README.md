@@ -2,7 +2,7 @@
 
 ## Preview App
 
-![Preview App.](/assets/preview.png)
+![Preview App.](/src/assets/preview.png)
 
 ### Features:
 
